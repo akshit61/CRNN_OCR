@@ -1,0 +1,5 @@
+Data/train/*
+Data/valid/*
+Data/.csv.pickle
+Data/train.csv
+__pycache__/
